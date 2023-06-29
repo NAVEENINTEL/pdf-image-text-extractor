@@ -1,0 +1,1 @@
+# pdf-image-text-extractor
